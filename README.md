@@ -1,0 +1,1 @@
+# Automated-Detection-of-Parkinson-s-disease-based-on-LDA-and-Genetically-Optimized-Neural-Network
